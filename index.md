@@ -8,11 +8,12 @@ This site is a collection of independently developed baseball analytics articles
 
 ## 📚 Articles
 
-Each post is hosted in its own GitHub repository:
+### [Batting Trends – 2025](https://github.com/your-org/batting-trends-2025)
+![Batting Trends](assets/images/batting-trends-2025.png)
 
-- [Batting Trends – 2025](https://github.com/YOUR_USERNAME/batting-trends-2025)
-- [Pitching Heatmaps](https://github.com/YOUR_USERNAME/pitching-heatmaps)
-- [WAR Deep Dive](https://github.com/YOUR_USERNAME/war-analysis)
-- examples! 
+### [Pitching Heatmaps](https://github.com/your-org/pitching-heatmaps)
+![Pitching](assets/images/pitching-heatmaps.png)
 
-More coming soon!
+### [WAR Deep Dive](https://github.com/your-org/war-analysis)
+![WAR](assets/images/war-deep-dive.png)
+
