@@ -3,8 +3,9 @@ layout: home
 title: Baseball Analytics Blog
 ---
 
-Welcome to our analytics hub!  
-This site is a collection of independently developed baseball analytics articles using Python, visualizations, and statistical methods.
+## Authors 
+-**Scott Silverstein** 
+-**Ethan Arsht** 
 
 ## 📚 Articles
 
