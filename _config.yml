@@ -1,0 +1,5 @@
+title: "Baseball Analytics Blog"
+description: "A blog on baseball stats and Python-based analytics"
+baseurl: ""
+url: "https://silvesco94.github.io/baseball-analytics-blog"
+theme: minima
