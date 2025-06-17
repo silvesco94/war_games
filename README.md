@@ -21,9 +21,13 @@ This central repository serves as the homepage and index:
 - `assets/images/`: Contains preview images (thumbnails) for each article
 
 baseball-analytics-blog/
+
 ├── README.md # How the hub works
+
 ├── _config.yml # Tells GitHub Pages how to render the site
+
 ├── index.md # Homepage - links to each article's repo
+
 └── assets/images/ # Article thumbnails (e.g., batting-trends-2025.png)
 
 
