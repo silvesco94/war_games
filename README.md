@@ -18,6 +18,11 @@ This central repository serves as the homepage and index:
 
 - `index.md`: The home page of the blog — links to individual article repos
 - `_config.yml`: Site settings for GitHub Pages (Jekyll)
+  baseball-analytics-blog/
+├── README.md        # how the hub works
+├── _config.yml      # Tells GitHub Pages how to render the site
+└── index.md         # Homepage - links to each article's repo
+
 
 ## Contributing
 
