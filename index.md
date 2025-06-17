@@ -5,6 +5,7 @@ title: Sports Analytics Blog
 
 ## Authors 
 -**Scott Silverstein** 
+
 -**Ethan Arsht** 
 
 ## About Us
