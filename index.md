@@ -9,7 +9,7 @@ title: Sports Analytics Blog
 
 ## About Us
 
-Ethan and Scott are two diehard sports fans with a shared passion for analytics, sarcasm, and deeply unnecessary debates about the games we love — baseball and beyond.
+Ethan and Scott are two diehard sports fans and longtime friends with a shared passion for analytics, sarcasm, and deeply unnecessary debates about the games we love — baseball and beyond.
 
 After countless hours arguing over clutch hitting, field goal percentage in the clutch, and whether playoff Jimmy Butler is a myth or a movement, we realized something:
 
