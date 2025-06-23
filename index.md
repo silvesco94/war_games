@@ -28,7 +28,7 @@ Expect Python-powered charts, absurd hypotheses, cross-sport comparisons, and th
 ## 📚 Articles
 
 ### [The Myth of the Tailored Approach: Are Pitchers Treating All Hitters the Same?]([https://github.com/your-org/batting-trends-2025](https://silvesco94.github.io/zone_article1/))
-![Batting Trends](assets/images/batting-trends-2025.png)
+![Image 1](1.jpeg)
 
 ### [Pitching Heatmaps](https://github.com/your-org/pitching-heatmaps)
 ![Pitching](assets/images/pitching-heatmaps.png)
