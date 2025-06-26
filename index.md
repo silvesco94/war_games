@@ -30,6 +30,6 @@ Expect Python-powered charts, absurd hypotheses, cross-sport comparisons, and th
 ### [The Myth of the Tailored Approach: Are Pitchers Treating All Hitters the Same?](https://silvesco94.github.io/Myth-of-the-Tailored-Approach/)
 *by **Scott Silverstein***
 
-![Image 1](assets/images/1.jpeg)
+![Image 1](war_games/assets/images/1.jpeg)
 
 
