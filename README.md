@@ -55,7 +55,7 @@ baseball-analytics-blog/
 
 ## Live Blog
 
-🔗 [https://silvesco94.github.io/baseball-analytics-blog](https://silvesco94.github.io/baseball-analytics-blog)
+🔗 [[https://silvesco94.github.io/baseball-analytics-blog](https://silvesco94.github.io/war_games/)]
 
 Explore our posts via the homepage — each includes a visual preview.
 
