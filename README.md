@@ -41,7 +41,14 @@ baseball-analytics-blog/
    - Charts/images
 3. Add the thumbnail image for your article to the `assets/images/` folder in this central repo  
    (e.g., `assets/images/batting-trends-2025.png`)
-4. Add a link + image to your article in the `index.md` file of this central repo
+4. Add a link + author byline + thumbnail to your article in the `index.md` file.  
+   Example format:
+   ```markdown
+   ### [Article Title](https://github.com/your-org/article-repo)
+   *by **Your Name***
+
+   ![Article Preview](assets/images/your-thumbnail.png)
+   
 5. Submit a Pull Request to this repo with your updates to:
    - `assets/images/`
    - `index.md`
