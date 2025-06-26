@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sports Analytics Blog
+title: War Games 
 ---
 
 ## Authors 
@@ -10,19 +10,19 @@ title: Sports Analytics Blog
 
 ## About Us
 
-Ethan and Scott are two diehard sports fans and longtime friends with a shared passion for analytics, sarcasm, and deeply unnecessary debates about the games we love — baseball and beyond.
+Ethan and Scott are lifelong sports enthusiasts and longtime friends with a shared background in analytics and a fascination with the deeper layers of sports performance.
 
-After countless hours arguing over clutch hitting, field goal percentage in the clutch, and whether playoff Jimmy Butler is a myth or a movement, we realized something:
+After many spirited debates over clutch hitting, situational efficiency, and whether playoff Jimmy Butler is a statistical anomaly or an emerging archetype, we came to a conclusion:
 
-It’s time to put the numbers where our mouths are.
+It’s time to put data at the center of the conversation.
 
-This blog is our sandbox — a place to break down hot takes, challenge narratives, and apply cold, hard data to the wonderfully chaotic world of sports. Whether it’s validating a playoff legend, debunking a cursed closer, or running regression models on goat-tier receivers — we’re here for it.
+This blog serves as our analytical playground — a platform to explore bold claims, scrutinize assumptions, and apply rigorous statistical thinking to the unpredictability of sports. Whether we're validating postseason legends, challenging the narrative around elite closers, or building models to evaluate high-impact players across leagues, our goal is the same: ground every insight in evidence.
 
-Our mission is simple:
+Our mission:
 
 > **No more “just trust me.” Only: “trust me, here’s the data.”**
 
-Expect Python-powered charts, absurd hypotheses, cross-sport comparisons, and the occasional statistical hill we’re fully prepared to die on. If it’s niche, nerdy, or just a little too deep — that’s exactly why we’re covering it.
+Expect Python-driven analysis, unconventional questions, cross-sport comparisons, and the occasional statistical deep dive. If it’s overlooked, complex, or controversial — we’re probably working on it.
 
 
 ## 📚 Articles
