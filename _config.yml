@@ -1,9 +1,20 @@
 title: "War Games"
-description: "A blog on baseball stats and Python-based analytics"
-baseurl: "/war_games" # important if you're using a project site
+description: "A blog exploring baseball stats and Python-powered sports analytics"
 url: "https://silvesco94.github.io"
+baseurl: "/war_games"
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Optional styling and metadata
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Social or site info (optional, enhances footer/header in some themes)
+author:
+  name: "Scott Silverstein and Ethan Arsht"
+  email: ""
+
+# Minima-specific config (can help with visual separation and layout)
+minima:
+  skin: auto
+  social_links: []
