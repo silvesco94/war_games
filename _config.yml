@@ -1,5 +1,9 @@
 title: "War Games"
 description: "A blog on baseball stats and Python-based analytics"
-baseurl: ""
-url: "https://silvesco94.github.io/war_games"
+baseurl: "/war_games" # important if you're using a project site
+url: "https://silvesco94.github.io"
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
