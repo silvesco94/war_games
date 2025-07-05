@@ -1,12 +1,12 @@
 ---
 layout: home
-title: War Games 
+title: War Games
 ---
 
-## Authors 
--**Scott Silverstein** 
+## Authors
 
--**Ethan Arsht** 
+**Scott Silverstein**  
+**Ethan Arsht**
 
 ## About Us
 
@@ -24,14 +24,11 @@ Our mission:
 
 Expect Python-driven analysis, unconventional questions, cross-sport comparisons, and the occasional statistical deep dive. If it’s overlooked, complex, or controversial — we’re probably working on it.
 
+---
 
-## 📚 Articles
+## Articles
 
 ### [The Myth of the Tailored Approach: Are Pitchers Treating All Hitters the Same?](https://silvesco94.github.io/Myth-of-the-Tailored-Approach/)
 *by **Scott Silverstein***
 
-![Image 1](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/1.jpeg)
-
-
-
-
+![Judge swinging](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/1.jpeg)
