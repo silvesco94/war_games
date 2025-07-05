@@ -4,17 +4,17 @@ url: "https://silvesco94.github.io"
 baseurl: "/war_games"
 theme: minima
 
-# Optional styling and metadata
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Social or site info (optional, enhances footer/header in some themes)
 author:
   name: "Scott Silverstein and Ethan Arsht"
-  email: ""
 
-# Minima-specific config (can help with visual separation and layout)
 minima:
   skin: auto
   social_links: []
+
+# ✅ Add this:
+header_pages:
+  - index.md
