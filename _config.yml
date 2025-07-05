@@ -14,7 +14,3 @@ author:
 minima:
   skin: auto
   social_links: []
-
-# ✅ Add this:
-header_pages:
-  - index.md
