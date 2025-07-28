@@ -32,3 +32,6 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 *by **Scott Silverstein***
 
 ![Judge swinging](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/1.jpeg)
+
+### [The Z-Score of Sadness: Ranking the Most Miserable Sports Years](https://ethanarsht.github.io/sports_index/)
+*by **Ethan Arsht***
