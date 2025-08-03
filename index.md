@@ -36,6 +36,4 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 ### [The Z-Score of Sadness: Ranking the Most Miserable Sports Years](https://ethanarsht.github.io/sports_index/)
 *by **Ethan Arsht***
 
-![White Sox](https://github.com/silvesco94/war_games/blob/main/assets/images/2174756930.0.jpg)
-
-
+![White Sox](![White Sox](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/2174756930.0.jpg)
