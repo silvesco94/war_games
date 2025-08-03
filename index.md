@@ -37,3 +37,5 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 *by **Ethan Arsht***
 
 ![White Sox](https://github.com/silvesco94/war_games/blob/main/assets/images/2174756930.0.jpg)
+
+
