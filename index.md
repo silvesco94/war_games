@@ -39,8 +39,8 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 ![White Sox](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/2174756930.0.jpg)
 
 
-## Scott's Thoughts 
+## Scott Thoughts 
 
-### Welcome to Scott's thoughts! 
+### Welcome to Scott thoughts! 
 
-Our deep-dive pieces pack in code, models, and math—so they take time. Between those big swings, meet **Scott’s Thoughts:** quick hits that still bring receipts. Same rule—no claims without data—just bite-size breakdowns on the sports we love.
+Our deep-dive pieces pack in code, models, and math—so they take time. Between those big swings, meet **Scott Thoughts:** quick hits that still bring receipts. Same rule—no claims without data—just bite-size breakdowns on the sports we love.
