@@ -47,3 +47,4 @@ Our deep-dive pieces pack in code, models, and math—so they take time. Between
 
 ### [Where did the aces go?](https://silvesco94.github.io/Where-did-the-aces-go-/)
 *by* **Scott Silverstein**
+![Judge swinging](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/aces_pic1.jpeg)
