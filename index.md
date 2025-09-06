@@ -44,3 +44,6 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 ### Welcome to Scott Thoughts! 
 
 Our deep-dive pieces pack in code, models, and math—so they take time. Between those big swings, meet **Scott Thoughts:** quick hits that still bring receipts. Same rule—no claims without data—just bite-size breakdowns on the sports we love.
+
+### [Where did the aces go?](https://silvesco94.github.io/Where-did-the-aces-go-/)
+*by* **Scott Silverstein**
