@@ -52,6 +52,9 @@ baseball-analytics-blog/
 5. Submit a Pull Request to this repo with your updates to:
    - `assets/images/`
    - `index.md`
+6. Add a Back to War Games button at the very top of your article’s README.md for easy navigation:
+   - [⬅️ Back to War Games](https://silvesco94.github.io/war_games/)
+   
 
 ## Live Blog
 
