@@ -43,7 +43,7 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 ### [Chaos and Control: What the Numbers Reveal About March Madness](https://silvesco94.github.io/cinderella_article/)
 *by **Scott Silverstein***
 
-![Cinderella](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/pic.jpg)
+![Cinderella](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/pic.jpg) 
 
 ---
 
