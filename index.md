@@ -42,7 +42,7 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 
 ### [Chaos and Control: What the Numbers Reveal About March Madness](https://silvesco94.github.io/cinderella_article/)
 
-![Cinderella]
+![Cinderella](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/pic.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ Our deep-dive pieces pack in code, models, and math—so they take time. Between
 ### [Where did the aces go?](https://silvesco94.github.io/Where-did-the-aces-go-/)
 *by* **Scott Silverstein**
 
-![Aces](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/aces_pic1.jpg)
+![Aces](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/aces_pic1.jp)
 
 
 
