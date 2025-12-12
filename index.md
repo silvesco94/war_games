@@ -39,6 +39,11 @@ Expect Python-driven analysis, unconventional questions, cross-sport comparisons
 
 ![White Sox](https://raw.githubusercontent.com/silvesco94/war_games/main/assets/images/2174756930.0.jpg)
 
+
+### [Chaos and Control: What the Numbers Reveal About March Madness](https://silvesco94.github.io/cinderella_article/)
+
+![Cinderella]
+
 ---
 
 ## **Scott Thoughts**
